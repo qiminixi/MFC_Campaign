@@ -4,3 +4,5 @@ debug/**
 release/**
 !/debug/*.exe
 !/release/*.exe
+!/release/*.png
+!/release/*.jpg
